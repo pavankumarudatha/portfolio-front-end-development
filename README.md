@@ -4,24 +4,24 @@
 
 ### Home -
 
-![home](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/5db25785-5456-4959-81c1-9b4b3e5c4cfe)
+![home](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/265a2cc1-7e7e-46f7-846d-7d4789111dd4)
+
 
 ### About us -
 
-![about](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/d385f5fe-a729-47ae-9eb0-f22f7d568521)
+![about](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/8b2e952e-3c09-41e4-9bed-3e100cd9718b)
 
 ### Services -
 
-![services](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/bc765367-ba5b-41f5-b0cc-f8d36ad83a1c)
+![services](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/5884c6e3-dbcb-416a-a02e-3ebf04228637)
 
 ### Portfolio -
-![portfolio1](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/4a15c8f1-0682-4d43-bb12-8f17a37bb117)
-
-![portfolio2](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/892c8f5c-7e1a-4341-b73b-bfbd9d032b6f)
+![portfolio1](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/5c1bc890-6837-4efc-8b0a-1325daef9c59)
+![portfolio2](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/89f64621-68ef-4b1e-a2ba-8753527f7d61)
 
 ### Contact us -
 
-![contact](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/b64df6cc-c296-4297-9d53-715630d49e1b)
+![contact](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/997ee478-c312-44e3-848d-6b1a454db1cf)
 
 ## Tech Stack :
 - HTML
