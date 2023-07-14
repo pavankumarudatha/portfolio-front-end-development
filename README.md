@@ -4,12 +4,12 @@
 
 ### Home -
 
-![about1](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/01d7fb8f-eaed-471e-b656-e8d01fc2fdb0)
+![home](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/d78b3fc5-63d9-4dde-b490-bae003defaf2)
 
 
 ### About us -
 
-![about](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/8b2e952e-3c09-41e4-9bed-3e100cd9718b)
+![about1](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/a65cb266-938b-4995-bb4c-905f24c5b9a5)
 
 ### Services -
 
