@@ -4,7 +4,7 @@
 
 ### Home -
 
-![home](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/265a2cc1-7e7e-46f7-846d-7d4789111dd4)
+![about1](https://github.com/pavankumarudatha/portfolio-front-end-development/assets/118047429/01d7fb8f-eaed-471e-b656-e8d01fc2fdb0)
 
 
 ### About us -
